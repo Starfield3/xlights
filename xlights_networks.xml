@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="LAPTOP-M2AE0JSI" GlobalFPPProxy="" GlobalForceLocalIP="" AutoUpdateFromBase="0" BaseShowDir="" BaseShowDirRelative="" BaseControllersSyncedTime="">
+	<suppressframes frames="20" />
+	<Controller Id="1" Name="baldrickdmx" Description="" Type="Ethernet" Vendor="FPP" Model="" Variant="" AutoSize="1" FromBase="0" FullxLightsControl="TRUE" DefaultBrightnessUnderFullControl="100" DefaultGammaUnderFullControl="1" ActiveState="xLights Only" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" Monitor="1" IP="192.168.188.68" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE" UPS="FALSE" ForceLocalIP="">
+		<network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.188.68" BaudRate="1" NetworkType="DDP" MaxChannels="1" Enabled="Yes" />
+	</Controller>
+</Networks>
