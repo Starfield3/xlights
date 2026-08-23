@@ -1,0 +1,6 @@
+# Model geometry must round-trip byte-exact. The system gitconfig sets
+# core.autocrlf=true, which would otherwise rewrite these on checkout and make a
+# checked-out file's hash differ from the stored blob.
+*.xmodel -text
+*.csv    -text
+*.png    binary
